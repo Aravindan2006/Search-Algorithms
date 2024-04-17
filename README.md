@@ -1,4 +1,4 @@
-![Screenshot 2024-04-17 150927](https://github.com/Aravindan2006/Search-Algorithms/assets/151760062/ff4b638c-017f-4304-ad39-7347b68b1e86)![Screenshot 2024-04-17 151044](https://github.com/Aravindan2006/Search-Algorithms/assets/151760062/6d7b6584-6290-4fdf-8406-8f80a59a778e)# Linear Search and Binary search
+# Linear Search and Binary search
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
