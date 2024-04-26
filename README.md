@@ -101,7 +101,6 @@ else:
 
 
 
-
 ```
 ## Sample Input and Output :
 ![Screenshot 2024-04-17 150927](https://github.com/Aravindan2006/Search-Algorithms/assets/151760062/dd84cbb0-b86f-4ab4-b2ca-5e35a6ab6d8c)
